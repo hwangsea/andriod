@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="activity_title">[2학기 정기 모임 활동 재안내]</string>
+    <string name="activity_date">23.11.16</string>
+    <string name="activity_description">26일 당일 활동을 취소합니다. 아직 시험이 끝나지 않은 분들이 많아 2학기 정기 모임 재시작은 11월달부터로 하겠습니다!</string>
+    <string name="image_description">이미지 설명</string>
 </resources>
